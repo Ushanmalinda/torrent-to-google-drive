@@ -6,19 +6,43 @@
 
 ## ✨ Features
 
+### 🌩️ Google Colab Version:
 - ✅ **100% Free** - No installation, no cost, no sign-ups needed
-- ✅ **Fast Downloads** - Leverage Google's high-speed infrastructure
+- ✅ **Fast Downloads** - Leverage Google's high-speed infrastructure (5-20 MB/s)
 - ✅ **Direct to Drive** - Files automatically saved to your Google Drive
 - ✅ **Zero Local Storage** - Everything happens in the cloud
+- ✅ **Instant Access** - Get clickable links to your files immediately
+
+### 🐧 Ubuntu/Linux Version:
+- ✅ **No Time Limits** - Download for as long as you need
+- ✅ **Full Control** - Choose any download location
+- ✅ **Command Line** - Simple CLI tool for power users
+- ✅ **Background Running** - Run 24/7 as a service
+- ✅ **Your Speed** - Uses your own internet connection
+
+### 📊 Both Versions:
 - ✅ **Multiple Formats** - Supports both .torrent files and magnet links
 - ✅ **Live Progress Tracking** - Real-time download monitoring with progress bars
-- ✅ **Instant Access** - Get clickable links to your files immediately after download
-- ✅ **Easy to Use** - Simple notebook interface, no technical knowledge required
+- ✅ **Easy to Use** - Simple interface, no technical knowledge required
 
-## 🚀 How to Use
+## 🚀 Two Ways to Use
 
-### Step 1: Open in Google Colab
+### 🌩️ Option 1: Google Colab (Cloud - No Installation)
+**Best for:** Quick downloads, when away from your PC, or don't have Ubuntu
+
 Click the "Open in Colab" badge above or [click here](https://colab.research.google.com/github/Ushanmalinda/torrent-to-google-drive/blob/main/Torrent_to_Google_Drive.ipynb)
+
+### 🐧 Option 2: Ubuntu/Linux (Local - Full Control)
+**Best for:** Unlimited time, faster speeds, larger files
+
+See [Ubuntu Setup Guide](UBUNTU_SETUP.md) for local installation and usage.
+
+---
+
+## 📖 Google Colab Usage
+
+### Step 1: Open in Colab
+Click the Colab badge above
 
 ### Step 2: Run the Cells
 Execute each cell in order by clicking the ▶️ play button or pressing `Shift + Enter`:
