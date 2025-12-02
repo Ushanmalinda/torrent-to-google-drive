@@ -2,7 +2,7 @@
 
 **Download torrents directly to your Google Drive using Google Colab's free cloud servers!**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/Torrent_to_Google_Drive.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ushanmalinda/torrent-to-google-drive/blob/main/Torrent_to_Google_Drive.ipynb)
 
 ## ✨ Features
 
@@ -18,7 +18,7 @@
 ## 🚀 How to Use
 
 ### Step 1: Open in Google Colab
-Click the "Open in Colab" badge above or [click here](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/Torrent_to_Google_Drive.ipynb)
+Click the "Open in Colab" badge above or [click here](https://colab.research.google.com/github/Ushanmalinda/torrent-to-google-drive/blob/main/Torrent_to_Google_Drive.ipynb)
 
 ### Step 2: Run the Cells
 Execute each cell in order by clicking the ▶️ play button or pressing `Shift + Enter`:
@@ -161,8 +161,8 @@ This project is provided as-is for educational and legal use only.
 ## 📧 Contact
 
 Have questions or suggestions? 
-- Open an [Issue](https://github.com/YOUR_USERNAME/YOUR_REPO/issues)
-- Start a [Discussion](https://github.com/YOUR_USERNAME/YOUR_REPO/discussions)
+- Open an [Issue](https://github.com/Ushanmalinda/torrent-to-google-drive/issues)
+- Start a [Discussion](https://github.com/Ushanmalinda/torrent-to-google-drive/discussions)
 
 ---
 
