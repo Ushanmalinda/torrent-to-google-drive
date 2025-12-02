@@ -28,14 +28,19 @@
 ## 🚀 Two Ways to Use
 
 ### 🌩️ Option 1: Google Colab (Cloud - No Installation)
-**Best for:** Quick downloads, when away from your PC, or don't have Ubuntu
+**Best for:** Windows users, quick downloads, when away from your PC
 
 Click the "Open in Colab" badge above or [click here](https://colab.research.google.com/github/Ushanmalinda/torrent-to-google-drive/blob/main/Torrent_to_Google_Drive.ipynb)
 
 ### 🐧 Option 2: Ubuntu/Linux (Local - Full Control)
-**Best for:** Unlimited time, faster speeds, larger files
+**Best for:** Linux users, unlimited time, faster speeds, larger files
 
 See [Ubuntu Setup Guide](UBUNTU_SETUP.md) for local installation and usage.
+
+### 🪟 Option 3: Windows (via WSL)
+**Best for:** Windows users who want local control
+
+See [Windows Setup Guide](WINDOWS_SETUP.md) for installation with WSL or Docker.
 
 ---
 
